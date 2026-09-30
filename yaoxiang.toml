@@ -1,4 +1,4 @@
 [package]
 name = "e2elib"
-version = "0.2.0"
+version = "0.3.0"
 description = "RFC-014 e2e experiment library"
