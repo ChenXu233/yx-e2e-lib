@@ -1,0 +1,1 @@
+pub value: Int = 42
